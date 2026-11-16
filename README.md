@@ -2,7 +2,7 @@
 
 > Lista curada de los mejores **cursos gratis en español** de YouTube y Udemy: programación, IA, Excel, SQL, inglés, diseño, AutoCAD y más. Cada curso está revisado uno a uno (temario, nivel, duración y si de verdad es gratis).
 
-Esta lista es un extracto de [cursosgratis.pro](https://cursosgratis.pro), un catálogo abierto de más de 2.000 cursos gratuitos en español, sin registro. Allí cada curso tiene su ficha con resumen, nivel, temario y un cuestionario para repasar.
+Esta lista es un extracto de [cursosgratis.pro](https://cursosgratis.pro), un catálogo abierto de más de 1900 cursos gratuitos en español, sin registro. Allí cada curso tiene su ficha con resumen, nivel, temario y un cuestionario para repasar. La lista se actualiza cada semana.
 
 ## Contenido
 
@@ -11,14 +11,14 @@ Esta lista es un extracto de [cursosgratis.pro](https://cursosgratis.pro), un ca
   - [AutoCAD](#autocad)
   - [Revit](#revit)
   - [SketchUp](#sketchup)
-  - [Inglés](#ingles)
+  - [Inglés](#inglés)
   - [Python](#python)
   - [Canva](#canva)
   - [Power BI](#power-bi)
   - [SQL y bases de datos](#sql-y-bases-de-datos)
-- [Cursos gratis por categoría](#cursos-gratis-por-categoria)
+- [Cursos gratis por categoría](#cursos-gratis-por-categoría)
 - [Rutas para aprender desde cero](#rutas-para-aprender-desde-cero)
-- [Cómo se eligen los cursos](#como-se-eligen-los-cursos)
+- [Cómo se eligen los cursos](#cómo-se-eligen-los-cursos)
 - [Contribuir](#contribuir)
 
 ## Los mejores cursos gratis por herramienta
@@ -129,7 +129,7 @@ Ranking completo: [los mejores cursos gratis de SQL y bases de datos](https://cu
 - [Curso Completo De Finanzas Personales · Adrián Sáenz](https://cursosgratis.pro/business/curso-completo-de-finanzas-personales-adrian-saenz-r2e-nf2vemc) — Adrián Sáenz · YouTube · 3 h · principiante
 - [Curso gratis De Amazon KDP · Cómo Crear Libros En Amazon KDP y Ganar Dinero En 2026](https://cursosgratis.pro/business/curso-gratis-de-amazon-kdp-como-crear-libros-en-amazon-kdp-y-rprlsz-xaby) — Adrián Sáenz · YouTube · 2 h · principiante
 - [Curso Completo de finanzas personales · Andrés Garza](https://cursosgratis.pro/business/curso-completo-de-finanzas-personales-andres-garza-uhzdegjlj78) — Andres Garza · YouTube · 1 h · principiante
-- [︎ Tutorial publicar un libro en Amazon KDP fácil y paso A paso 2026](https://cursosgratis.pro/business/tutorial-publicar-un-libro-en-amazon-kdp-facil-y-paso-a-paso-fhpfhegvumq) — Editorial Letra Minúscula  · YouTube · 1 h · principiante
+- [︎ Tutorial publicar un libro en Amazon KDP fácil y paso A paso 2026](https://cursosgratis.pro/business/tutorial-publicar-un-libro-en-amazon-kdp-facil-y-paso-a-paso-fhpfhegvumq) — Editorial Letra Minúscula · YouTube · 1 h · principiante
 
 Todos los cursos de Negocios (310): [cursosgratis.pro/business](https://cursosgratis.pro/business)
 
@@ -283,7 +283,7 @@ Más detalle en [cómo funciona el proyecto](https://cursosgratis.pro/sobre-el-p
 
 ## Contribuir
 
-¿Conoces un curso gratis en español que debería estar aquí? Abre un *issue* o un *pull request* con el enlace, o propónlo desde [la web](https://cursosgratis.pro/contacto).
+¿Conoces un curso gratis en español que debería estar aquí? Abre un *issue* con el enlace, o propónlo desde [la web](https://cursosgratis.pro/contacto).
 
 ## Licencia
 

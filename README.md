@@ -1,8 +1,8 @@
 # Cursos gratis en español
 
-> Lista curada de los mejores **cursos gratis en español** de YouTube y Udemy: programación, IA, Excel, SQL, inglés, diseño, AutoCAD y más. Cada curso está revisado uno a uno (temario, nivel, duración y si de verdad es gratis).
+> Lista curada de los mejores **cursos gratis en español** de YouTube, Udemy y Microsoft Learn: programación, IA, Excel, SQL, inglés, diseño, AutoCAD y más. Cada curso está revisado uno a uno (temario, nivel, duración y si de verdad es gratis).
 
-Esta lista es un extracto de [cursosgratis.pro](https://cursosgratis.pro), un catálogo abierto de más de 1900 cursos gratuitos en español, sin registro. Allí cada curso tiene su ficha con resumen, nivel, temario y un cuestionario para repasar. La lista se actualiza cada semana.
+Esta lista es un extracto de [cursosgratis.pro](https://cursosgratis.pro), un catálogo abierto de más de 2000 cursos gratuitos en español, sin registro. Allí cada curso tiene su ficha con resumen, nivel, temario y un cuestionario para repasar. La lista se actualiza cada semana.
 
 ## Contenido
 
@@ -126,12 +126,12 @@ Ranking completo: [los mejores cursos gratis de SQL y bases de datos](https://cu
 ### Negocios
 
 - [Crea un negocio desde cero · MBA Completo gratis](https://cursosgratis.pro/business/crea-un-negocio-desde-cero-mba-completo-gratis-j3zqply6uxe) — Mario Armenta · YouTube · 11 h · principiante
+- [Configurar y usar la contabilidad general en Dynamics 365 Finance](https://cursosgratis.pro/business/configurar-y-usar-la-contabilidad-general-en-dynamics-365-fi-7d647099) — Microsoft Learn · Microsoft Learn · 14 h
 - [Curso Completo De Finanzas Personales · Adrián Sáenz](https://cursosgratis.pro/business/curso-completo-de-finanzas-personales-adrian-saenz-r2e-nf2vemc) — Adrián Sáenz · YouTube · 3 h · principiante
 - [Curso gratis De Amazon KDP · Cómo Crear Libros En Amazon KDP y Ganar Dinero En 2026](https://cursosgratis.pro/business/curso-gratis-de-amazon-kdp-como-crear-libros-en-amazon-kdp-y-rprlsz-xaby) — Adrián Sáenz · YouTube · 2 h · principiante
 - [Curso Completo de finanzas personales · Andrés Garza](https://cursosgratis.pro/business/curso-completo-de-finanzas-personales-andres-garza-uhzdegjlj78) — Andres Garza · YouTube · 1 h · principiante
-- [︎ Tutorial publicar un libro en Amazon KDP fácil y paso A paso 2026](https://cursosgratis.pro/business/tutorial-publicar-un-libro-en-amazon-kdp-facil-y-paso-a-paso-fhpfhegvumq) — Editorial Letra Minúscula · YouTube · 1 h · principiante
 
-Todos los cursos de Negocios (310): [cursosgratis.pro/business](https://cursosgratis.pro/business)
+Todos los cursos de Negocios (312): [cursosgratis.pro/business](https://cursosgratis.pro/business)
 
 ### Manualidades y hobbies
 
@@ -149,9 +149,9 @@ Todos los cursos de Manualidades y hobbies (25): [cursosgratis.pro/crafts](https
 - [Curso de SQL desde cero (Completo)](https://cursosgratis.pro/data-ai/curso-de-sql-desde-cero-completo-dfg1v-ro6pg) — Soy Dalto · YouTube · 7 h · principiante
 - [Curso completo de SQL y bases DE datos Desde Cero para principiantes](https://cursosgratis.pro/data-ai/curso-completo-de-sql-y-bases-de-datos-desde-cero-para-princ-oujerkzv5t0) — MoureDev by Brais Moure · YouTube · 7 h · principiante
 - [Curso de machine learning desde cero · (completo)](https://cursosgratis.pro/data-ai/curso-de-machine-learning-desde-cero-completo-xyu2pzktqe0) — Adrian Cancino · YouTube · 5 h · principiante
-- [Cómo Utilizar Claude Para Principiantes · Tutorial 2026](https://cursosgratis.pro/data-ai/como-utilizar-claude-para-principiantes-tutorial-2026-imajmqy8p8c) — Adrián Sáenz · YouTube · 7 h · principiante
+- [Preparar y visualizar datos con Microsoft Power BI](https://cursosgratis.pro/data-ai/preparar-y-visualizar-datos-con-microsoft-power-bi-44ff6035) — Microsoft Learn · Microsoft Learn · 8 h
 
-Todos los cursos de Datos e IA (140): [cursosgratis.pro/data-ai](https://cursosgratis.pro/data-ai)
+Todos los cursos de Datos e IA (160): [cursosgratis.pro/data-ai](https://cursosgratis.pro/data-ai)
 
 ### Diseño
 
@@ -201,7 +201,7 @@ Todos los cursos de Idiomas (78): [cursosgratis.pro/languages](https://cursosgra
 - [Curso de SEO - posicionamiento web](https://cursosgratis.pro/marketing/curso-de-seo-posicionamiento-web-hvwxvebhnxq) — Yoney Gallardo · YouTube · 4 h
 - [Curso de marketing digital - completo](https://cursosgratis.pro/marketing/curso-de-marketing-digital-completo-v92jx72x88c) — Yoney Gallardo · YouTube · 4 h
 
-Todos los cursos de Marketing (139): [cursosgratis.pro/marketing](https://cursosgratis.pro/marketing)
+Todos los cursos de Marketing (141): [cursosgratis.pro/marketing](https://cursosgratis.pro/marketing)
 
 ### Música
 
@@ -231,7 +231,7 @@ Todos los cursos de Productividad (90): [cursosgratis.pro/productivity](https://
 - [Curso completo de Python desde cero para Principiantes 2025](https://cursosgratis.pro/programming/curso-completo-de-python-desde-cero-para-principiantes-2025-tkn2i-4n4g) — midudev · YouTube · 9 h · principiante
 - [JavaScript desde cero · Curso tutorial completo gratis por Sergie Code](https://cursosgratis.pro/programming/javascript-desde-cero-curso-tutorial-completo-gratis-por-ser-n8xt5rp-duo) — Sergie Code · YouTube · 8 h · principiante
 
-Todos los cursos de Programación (652): [cursosgratis.pro/programming](https://cursosgratis.pro/programming)
+Todos los cursos de Programación (668): [cursosgratis.pro/programming](https://cursosgratis.pro/programming)
 
 ### Bienestar
 

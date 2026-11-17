@@ -2,7 +2,7 @@
 
 > Lista curada de los mejores **cursos gratis en español** de YouTube, Udemy y Microsoft Learn: programación, IA, Excel, SQL, inglés, diseño, AutoCAD y más. Cada curso está revisado uno a uno (temario, nivel, duración y si de verdad es gratis).
 
-Esta lista es un extracto de [cursosgratis.pro](https://cursosgratis.pro), un catálogo abierto de más de 2000 cursos gratuitos en español, sin registro. Allí cada curso tiene su ficha con resumen, nivel, temario y un cuestionario para repasar. La lista se actualiza cada semana.
+Esta lista es un extracto de [cursosgratis.pro](https://cursosgratis.pro), un catálogo abierto de más de 2100 cursos gratuitos en español, sin registro. Allí cada curso tiene su ficha con resumen, nivel, temario y un cuestionario para repasar. La lista se actualiza cada semana.
 
 ## Contenido
 
@@ -84,8 +84,8 @@ Ranking completo: [los mejores cursos gratis de inglés](https://cursosgratis.pr
 - [Curso completo de Python desde cero para principiantes](https://cursosgratis.pro/programming/curso-completo-de-python-desde-cero-para-principiantes-kp4mvapo5kc) — MoureDev by Brais Moure · YouTube · 10 h · principiante
 - [Curso completo de Python desde cero para Principiantes 2025](https://cursosgratis.pro/programming/curso-completo-de-python-desde-cero-para-principiantes-2025-tkn2i-4n4g) — midudev · YouTube · 9 h · principiante
 - [Curso de Python desde cero (Completo)](https://cursosgratis.pro/programming/curso-de-python-desde-cero-completo-nkpbfiu442g) — Soy Dalto · YouTube · 8 h · principiante
+- [Introducción a la programación de Python: Parte 2: creación de programas](https://cursosgratis.pro/programming/introduccion-a-la-programacion-de-python-parte-2-creacion-de-0e952456) — Microsoft Learn · Microsoft Learn · 4 h
 - [CS50x en Español - Clase 6 - Python](https://cursosgratis.pro/programming/cs50x-en-espanol-clase-6-python-n3zvfyqu3bu) — YouTube · 2 h
-- [Aprende a programar con Python desde menos UNO](https://cursosgratis.pro/programming/aprende-a-programar-con-python-desde-menos-uno) — Fernando Llopis Pascual · Udemy · 2 h · principiante
 
 Ranking completo: [los mejores cursos gratis de Python](https://cursosgratis.pro/mejores/mejores-cursos-gratis-python)
 
@@ -131,7 +131,7 @@ Ranking completo: [los mejores cursos gratis de SQL y bases de datos](https://cu
 - [Curso gratis De Amazon KDP · Cómo Crear Libros En Amazon KDP y Ganar Dinero En 2026](https://cursosgratis.pro/business/curso-gratis-de-amazon-kdp-como-crear-libros-en-amazon-kdp-y-rprlsz-xaby) — Adrián Sáenz · YouTube · 2 h · principiante
 - [Curso Completo de finanzas personales · Andrés Garza](https://cursosgratis.pro/business/curso-completo-de-finanzas-personales-andres-garza-uhzdegjlj78) — Andres Garza · YouTube · 1 h · principiante
 
-Todos los cursos de Negocios (312): [cursosgratis.pro/business](https://cursosgratis.pro/business)
+Todos los cursos de Negocios (345): [cursosgratis.pro/business](https://cursosgratis.pro/business)
 
 ### Manualidades y hobbies
 
@@ -151,7 +151,7 @@ Todos los cursos de Manualidades y hobbies (25): [cursosgratis.pro/crafts](https
 - [Curso de machine learning desde cero · (completo)](https://cursosgratis.pro/data-ai/curso-de-machine-learning-desde-cero-completo-xyu2pzktqe0) — Adrian Cancino · YouTube · 5 h · principiante
 - [Preparar y visualizar datos con Microsoft Power BI](https://cursosgratis.pro/data-ai/preparar-y-visualizar-datos-con-microsoft-power-bi-44ff6035) — Microsoft Learn · Microsoft Learn · 8 h
 
-Todos los cursos de Datos e IA (160): [cursosgratis.pro/data-ai](https://cursosgratis.pro/data-ai)
+Todos los cursos de Datos e IA (182): [cursosgratis.pro/data-ai](https://cursosgratis.pro/data-ai)
 
 ### Diseño
 
@@ -201,7 +201,7 @@ Todos los cursos de Idiomas (78): [cursosgratis.pro/languages](https://cursosgra
 - [Curso de SEO - posicionamiento web](https://cursosgratis.pro/marketing/curso-de-seo-posicionamiento-web-hvwxvebhnxq) — Yoney Gallardo · YouTube · 4 h
 - [Curso de marketing digital - completo](https://cursosgratis.pro/marketing/curso-de-marketing-digital-completo-v92jx72x88c) — Yoney Gallardo · YouTube · 4 h
 
-Todos los cursos de Marketing (141): [cursosgratis.pro/marketing](https://cursosgratis.pro/marketing)
+Todos los cursos de Marketing (142): [cursosgratis.pro/marketing](https://cursosgratis.pro/marketing)
 
 ### Música
 
@@ -221,7 +221,7 @@ Todos los cursos de Música (30): [cursosgratis.pro/music](https://cursosgratis.
 - [Curso de Excel desde cero para principiantes. empieza aquí 2026.](https://cursosgratis.pro/productivity/curso-de-excel-desde-cero-para-principiantes-empieza-aqui-20-ig7pruev84o) — Excel Cursos - Ericka · YouTube · 2 h · principiante
 - [Curso Completo de Excel Gratis!!](https://cursosgratis.pro/productivity/curso-completo-de-excel-gratis-m8i4fmucpk0) — A2 Capacitación: Excel · YouTube · 2 h · principiante
 
-Todos los cursos de Productividad (90): [cursosgratis.pro/productivity](https://cursosgratis.pro/productivity)
+Todos los cursos de Productividad (95): [cursosgratis.pro/productivity](https://cursosgratis.pro/productivity)
 
 ### Programación
 
@@ -231,7 +231,7 @@ Todos los cursos de Productividad (90): [cursosgratis.pro/productivity](https://
 - [Curso completo de Python desde cero para Principiantes 2025](https://cursosgratis.pro/programming/curso-completo-de-python-desde-cero-para-principiantes-2025-tkn2i-4n4g) — midudev · YouTube · 9 h · principiante
 - [JavaScript desde cero · Curso tutorial completo gratis por Sergie Code](https://cursosgratis.pro/programming/javascript-desde-cero-curso-tutorial-completo-gratis-por-ser-n8xt5rp-duo) — Sergie Code · YouTube · 8 h · principiante
 
-Todos los cursos de Programación (668): [cursosgratis.pro/programming](https://cursosgratis.pro/programming)
+Todos los cursos de Programación (726): [cursosgratis.pro/programming](https://cursosgratis.pro/programming)
 
 ### Bienestar
 

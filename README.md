@@ -131,7 +131,7 @@ Ranking completo: [los mejores cursos gratis de SQL y bases de datos](https://cu
 - [Crear informes para Microsoft Dynamics 365 Business Central](https://cursosgratis.pro/business/crear-informes-para-microsoft-dynamics-365-business-central-becbcec3) — Microsoft Learn · Microsoft Learn · 8 h · intermedio
 - [Procesar operaciones financieras en Business Central](https://cursosgratis.pro/business/procesar-operaciones-financieras-en-business-central-50a170d5) — Microsoft Learn · Microsoft Learn · 8 h · intermedio
 
-Todos los cursos de Negocios (473): [cursosgratis.pro/business](https://cursosgratis.pro/business)
+Todos los cursos de Negocios (474): [cursosgratis.pro/business](https://cursosgratis.pro/business)
 
 ### Manualidades y hobbies
 
@@ -151,7 +151,7 @@ Todos los cursos de Manualidades y hobbies (25): [cursosgratis.pro/crafts](https
 - [Curso de machine learning desde cero · (completo)](https://cursosgratis.pro/data-ai/curso-de-machine-learning-desde-cero-completo-xyu2pzktqe0) — Adrian Cancino · YouTube · 5 h · principiante
 - [Desarrollo de agentes de inteligencia artificial en Azure](https://cursosgratis.pro/data-ai/desarrollo-de-agentes-de-inteligencia-artificial-en-azure-99e3ad1a) — Microsoft Learn · Microsoft Learn · 11 h · avanzado
 
-Todos los cursos de Datos e IA (256): [cursosgratis.pro/data-ai](https://cursosgratis.pro/data-ai)
+Todos los cursos de Datos e IA (257): [cursosgratis.pro/data-ai](https://cursosgratis.pro/data-ai)
 
 ### Diseño
 
@@ -231,7 +231,7 @@ Todos los cursos de Productividad (100): [cursosgratis.pro/productivity](https:/
 - [Curso completo de Python desde cero para Principiantes 2025](https://cursosgratis.pro/programming/curso-completo-de-python-desde-cero-para-principiantes-2025-tkn2i-4n4g) — midudev · YouTube · 9 h · principiante
 - [JavaScript desde cero · Curso tutorial completo gratis por Sergie Code](https://cursosgratis.pro/programming/javascript-desde-cero-curso-tutorial-completo-gratis-por-ser-n8xt5rp-duo) — Sergie Code · YouTube · 8 h · principiante
 
-Todos los cursos de Programación (866): [cursosgratis.pro/programming](https://cursosgratis.pro/programming)
+Todos los cursos de Programación (872): [cursosgratis.pro/programming](https://cursosgratis.pro/programming)
 
 ### Bienestar
 
